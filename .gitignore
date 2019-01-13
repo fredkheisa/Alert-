@@ -1,1 +1,7 @@
+
 virtual/
+.env
+migrations/
+.vscode
+gang/__pycache__/
+hoodwatch/__pycache__/
