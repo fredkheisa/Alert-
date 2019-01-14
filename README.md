@@ -1,6 +1,6 @@
 # Alert
 
-This is a website where users get to create different neiborhood profiles and others can join then get news on things happenning in their neighbor hood. 
+This is a website where users get to create different neighbourhood profiles and others can join then get news on things happenning in their neighbor hood. 
 
 ### Prerequisites
 
