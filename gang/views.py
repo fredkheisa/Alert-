@@ -151,6 +151,7 @@ def createbiz(request):
             messages.error(request, 'Error! Join a Neighbourhood to create a Business')
 
 
+@login_required(login_url='/accounts/login/')
 def exithood(request, id):
     """
     Allows users to exit hoods
