@@ -1,9 +1,8 @@
 body{
-    background-image: url("/static/img/bg.jpg"); 
+    background-image: url("static/img/fb_neighbourhood.jpg"); 
     background-blend-mode: overlay;
     background-attachment: fixed;
     background-size:cover;
     background-repeat: no-repeat;
-    background-color: rgba(141, 39, 39, 0.842);
-    
+    background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);    
 }
